@@ -1,2 +1,2 @@
-# Ransomware Detection in Kubernetes Clusters Using eBPF and Honeyfiles
+# Ransomware Detection Using eBPF and Honeyfiles
 
